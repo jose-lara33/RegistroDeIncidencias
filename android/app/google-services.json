@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "499304840885",
+    "project_id": "registroincidencias-9e4f5",
+    "storage_bucket": "registroincidencias-9e4f5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499304840885:android:62219ce053b4c3890f08fc",
+        "android_client_info": {
+          "package_name": "com.registroincidencias.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499304840885-vrqiq7bvp2tof39enjgsdnv5or5u57kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAelKMlVi23_l_JOcDhM7o-DTp4QLnV-pE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499304840885-vrqiq7bvp2tof39enjgsdnv5or5u57kv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
